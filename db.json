@@ -3,7 +3,7 @@
         {
             "id": 1,
             "data": {
-                "voteStatus": "closed",
+                "voteStatus": "closed 🚫",
                 "totalVote": "3400",
                 "sequence": "2500-500-200-75-50-50-20-5",
                 "albums" :[
