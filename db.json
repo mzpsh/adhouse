@@ -2,67 +2,77 @@
     "posts": [
         {
             "id": 1,
-            "vote-status": "closed",
-            "total-vote": "3400",
-            "sequence": "2500-500-200-75-50-50-20-5",
-            "albums": [
-                {
-                    "rank": "1",
-                    "name": "AD:HOUSE 6",
-                    "img-url": "http://diverse.jp/wp-content/uploads/j_l_DVSP-0178_ADHOUSE-6.png",
-                    "price": "2,200YEN",
-                    "model-number": "DVSP-0178,0179",
-                    "votes": "2500"
-                },
-                {
-                    "rank": "2",
-                    "name": "AD:HOUSE 7",
-                    "img-url": "http://diverse.jp/wp-content/uploads/660_adh7_jacket_h.jpg",
-                    "price": "2,700YEN",
-                    "model-number": "DVSP-0223,0224",
-                    "votes": "200"
-                },
-                {
-                    "rank": "4",
-                    "name": "AD:HOUSE 4",
-                    "img-url": "http://diverse.jp/wp-content/uploads/2015/08/j_l_dvsp-adhouse4.jpg",
-                    "price": "2,000YEN",
-                    "model-number": "DVSP-0132",
-                    "votes": "75"
-                },
-                {
-                    "rank": "5",
-                    "name": "AD:HOUSE 5",
-                    "img-url": "http://diverse.jp/wp-content/uploads/2016/08/j_l_DVSP-0156.jpg",
-                    "price": "2,000YEN",
-                    "model-number": "DVSP-0132",
-                    "votes": "50"
-                },
-                {
-                    "rank": "6",
-                    "name": "Clearly -AD:HOUSE BEST-",
-                    "img-url": "http://diverse.jp/wp-content/uploads/ADHB_ol-e1539323692911.png",
-                    "price": "2,160YEN",
-                    "model-number": "DVSP-0198,0199,200",
-                    "votes": "50"
-                },
-                {
-                    "rank": "7",
-                    "name": "Colors -AD:HOUSE VOCAL REMIXES-",
-                    "img-url": "http://diverse.jp/wp-content/uploads/DVSP-0201_Colors_2500x1861-e1539324042789.png",
-                    "price": "1,620YEN",
-                    "model-number": "DVSP-0201",
-                    "votes": "20"
-                },
-                {
-                    "rank": "8",
-                    "name": "AD:HOUSE",
-                    "img-url": "http://diverse.jp/wp-content/uploads/2013/03/j_l_DVSP-0074.jpg",
-                    "price": "1,000YEN",
-                    "model-number": "DVSP-0074",
-                    "votes": "5"
-                }
-            ]
+            "data": {
+                "vote-status": "closed",
+                "total-vote": "3400",
+                "sequence": "2500-500-200-75-50-50-20-5",
+                "albums" :[
+                    {
+                        "rank": "1",
+                        "name": "AD:HOUSE 6",
+                        "img-url": "http://diverse.jp/wp-content/uploads/j_l_DVSP-0178_ADHOUSE-6.png",
+                        "price": "2,200YEN",
+                        "model-number": "DVSP-0178,0179",
+                        "votes": "2500"
+                    },
+                    {
+                        "rank": "2",
+                        "name": "AD:HOUSE 7",
+                        "img-url": "http://diverse.jp/wp-content/uploads/660_adh7_jacket_h.jpg",
+                        "price": "2,700YEN",
+                        "model-number": "DVSP-0223,0224",
+                        "votes": "500"
+                    },
+                    {
+                        "rank": "3",
+                        "name": "AD:HOUSE 2",
+                        "img-url": "http://diverse.jp/wp-content/uploads/2013/04/j_l_DVSP-0092.jpg",
+                        "price": "1,000YEN",
+                        "model-number": "DVSP-0092",
+                        "votes": "200"
+                    },
+                    {
+                        "rank": "4",
+                        "name": "AD:HOUSE 4",
+                        "img-url": "http://diverse.jp/wp-content/uploads/2015/08/j_l_dvsp-adhouse4.jpg",
+                        "price": "2,000YEN",
+                        "model-number": "DVSP-0132",
+                        "votes": "75"
+                    },
+                    {
+                        "rank": "5",
+                        "name": "AD:HOUSE 5",
+                        "img-url": "http://diverse.jp/wp-content/uploads/2016/08/j_l_DVSP-0156.jpg",
+                        "price": "2,000YEN",
+                        "model-number": "DVSP-0132",
+                        "votes": "50"
+                    },
+                    {
+                        "rank": "6",
+                        "name": "Clearly -AD:HOUSE BEST-",
+                        "img-url": "http://diverse.jp/wp-content/uploads/ADHB_ol-e1539323692911.png",
+                        "price": "2,160YEN",
+                        "model-number": "DVSP-0198,0199,200",
+                        "votes": "50"
+                    },
+                    {
+                        "rank": "7",
+                        "name": "Colors -AD:HOUSE VOCAL REMIXES-",
+                        "img-url": "http://diverse.jp/wp-content/uploads/DVSP-0201_Colors_2500x1861-e1539324042789.png",
+                        "price": "1,620YEN",
+                        "model-number": "DVSP-0201",
+                        "votes": "20"
+                    },
+                    {
+                        "rank": "8",
+                        "name": "AD:HOUSE",
+                        "img-url": "http://diverse.jp/wp-content/uploads/2013/03/j_l_DVSP-0074.jpg",
+                        "price": "1,000YEN",
+                        "model-number": "DVSP-0074",
+                        "votes": "5"
+                    }
+                ]
+            }
         }
     ]
 }
